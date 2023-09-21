@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.info-wrap .dbox .icon span {
+  font-size: 20px;
+}
+.fa {
+  font: normal normal normal 14px/1 FontAwesome;
+}
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.info-wrap .dbox .text {
+  width: calc(100% - 50px);
+}
+.nav-item:hover{
+background: #ffc107;
+border-radius: 8px;  
+}
+.nav-item .nav-link{
+margin: 5px;
+}
+.nav-item .nav-link:hover{
+color: #ffff;
+}
+
+footer span.fa{
+  font-size: 15px;
+  padding: 15px;
+  background-color: #ffc107;
+  border-radius: 30px;
+  color: #fff;
+  
+}
